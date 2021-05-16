@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="31ae3fdc-294a-4cbe-8f47-5221c78df9f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1We63Xo9ps3TFP4yrN8tv4g22zi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.sum_of_path_numbers">
+    <configuration name="coinChange" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetocode_Prac" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coinChange.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="maxSubarray" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetocode_Prac" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maxSubarray.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mypow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetocode_Prac" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mypow.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reverseLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetocode_Prac" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reverseLinkedList.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sum_of_path_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Leetocode_Prac" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sum_of_path_numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sum_of_path_numbers" />
+        <item itemvalue="Python.coinChange" />
+        <item itemvalue="Python.mypow" />
+        <item itemvalue="Python.maxSubarray" />
+        <item itemvalue="Python.reverseLinkedList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31ae3fdc-294a-4cbe-8f47-5221c78df9f8" name="Default Changelist" comment="" />
+      <created>1579497514734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579497514734</updated>
+      <workItem from="1581394957536" duration="1502000" />
+      <workItem from="1581993639439" duration="1929000" />
+      <workItem from="1582491762254" duration="22000" />
+      <workItem from="1582668790518" duration="2341000" />
+      <workItem from="1582819989592" duration="555000" />
+      <workItem from="1584809157259" duration="4137000" />
+      <workItem from="1585009709487" duration="2804000" />
+      <workItem from="1585023138667" duration="3731000" />
+      <workItem from="1586014653038" duration="869000" />
+      <workItem from="1586048474920" duration="1181000" />
+      <workItem from="1586789917493" duration="970000" />
+      <workItem from="1586895045869" duration="762000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="190" key="GridCell.Tab.0.bottom" timestamp="1587176164873">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1358" height="226" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1585024675452" />
+    <state width="1358" height="190" key="GridCell.Tab.0.bottom/0.23.1440.813@0.23.1440.813" timestamp="1585024864742" />
+    <state width="1358" height="190" key="GridCell.Tab.0.bottom/0.23.1440.815@0.23.1440.815" timestamp="1585102628380" />
+    <state width="1358" height="226" key="GridCell.Tab.0.bottom/0.23.1440.817@0.23.1440.817" timestamp="1585012850509" />
+    <state width="1358" height="190" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1586897484350" />
+    <state width="1358" height="190" key="GridCell.Tab.0.bottom/0.23.1440.824@0.23.1440.824" timestamp="1584829595680" />
+    <state width="1358" height="190" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1586140934045" />
+    <state width="1358" height="226" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1586826515149" />
+    <state width="1358" height="190" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1587176164873" />
+    <state width="1358" height="226" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1581995272069" />
+    <state width="1358" height="226" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1582682675710" />
+    <state width="1358" height="226" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1582669454048" />
+    <state width="1358" height="226" key="GridCell.Tab.0.bottom/0.23.1440.838@0.23.1440.838" timestamp="1582732675126" />
+    <state width="1358" height="190" key="GridCell.Tab.0.center" timestamp="1587176164833">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1358" height="226" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1585024675451" />
+    <state width="1358" height="190" key="GridCell.Tab.0.center/0.23.1440.813@0.23.1440.813" timestamp="1585024864741" />
+    <state width="1358" height="190" key="GridCell.Tab.0.center/0.23.1440.815@0.23.1440.815" timestamp="1585102628379" />
+    <state width="1358" height="226" key="GridCell.Tab.0.center/0.23.1440.817@0.23.1440.817" timestamp="1585012850508" />
+    <state width="1358" height="190" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1586897484348" />
+    <state width="1358" height="190" key="GridCell.Tab.0.center/0.23.1440.824@0.23.1440.824" timestamp="1584829595678" />
+    <state width="1358" height="190" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1586140934043" />
+    <state width="1358" height="226" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1586826515148" />
+    <state width="1358" height="190" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1587176164833" />
+    <state width="1358" height="226" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1581995272068" />
+    <state width="1358" height="226" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1582682675708" />
+    <state width="1358" height="226" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1582669454047" />
+    <state width="1358" height="226" key="GridCell.Tab.0.center/0.23.1440.838@0.23.1440.838" timestamp="1582732675124" />
+    <state width="1358" height="190" key="GridCell.Tab.0.left" timestamp="1587176164818">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1358" height="226" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1585024675450" />
+    <state width="1358" height="190" key="GridCell.Tab.0.left/0.23.1440.813@0.23.1440.813" timestamp="1585024864740" />
+    <state width="1358" height="190" key="GridCell.Tab.0.left/0.23.1440.815@0.23.1440.815" timestamp="1585102628378" />
+    <state width="1358" height="226" key="GridCell.Tab.0.left/0.23.1440.817@0.23.1440.817" timestamp="1585012850507" />
+    <state width="1358" height="190" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1586897484347" />
+    <state width="1358" height="190" key="GridCell.Tab.0.left/0.23.1440.824@0.23.1440.824" timestamp="1584829595677" />
+    <state width="1358" height="190" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1586140934041" />
+    <state width="1358" height="226" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1586826515141" />
+    <state width="1358" height="190" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1587176164818" />
+    <state width="1358" height="226" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1581995272067" />
+    <state width="1358" height="226" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1582682675707" />
+    <state width="1358" height="226" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1582669454046" />
+    <state width="1358" height="226" key="GridCell.Tab.0.left/0.23.1440.838@0.23.1440.838" timestamp="1582732675123" />
+    <state width="1358" height="190" key="GridCell.Tab.0.right" timestamp="1587176164850">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1358" height="226" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1585024675451" />
+    <state width="1358" height="190" key="GridCell.Tab.0.right/0.23.1440.813@0.23.1440.813" timestamp="1585024864741" />
+    <state width="1358" height="190" key="GridCell.Tab.0.right/0.23.1440.815@0.23.1440.815" timestamp="1585102628379" />
+    <state width="1358" height="226" key="GridCell.Tab.0.right/0.23.1440.817@0.23.1440.817" timestamp="1585012850509" />
+    <state width="1358" height="190" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1586897484349" />
+    <state width="1358" height="190" key="GridCell.Tab.0.right/0.23.1440.824@0.23.1440.824" timestamp="1584829595679" />
+    <state width="1358" height="190" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1586140934044" />
+    <state width="1358" height="226" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1586826515148" />
+    <state width="1358" height="190" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1587176164850" />
+    <state width="1358" height="226" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1581995272068" />
+    <state width="1358" height="226" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1582682675709" />
+    <state width="1358" height="226" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1582669454048" />
+    <state width="1358" height="226" key="GridCell.Tab.0.right/0.23.1440.838@0.23.1440.838" timestamp="1582732675125" />
+    <state width="1358" height="226" key="GridCell.Tab.1.bottom" timestamp="1586826515154">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1358" height="226" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1585024675454" />
+    <state width="1358" height="226" key="GridCell.Tab.1.bottom/0.23.1440.817@0.23.1440.817" timestamp="1585012850511" />
+    <state width="1358" height="226" key="GridCell.Tab.1.bottom/0.23.1440.823@0.23.1440.823" timestamp="1586808273527" />
+    <state width="1358" height="226" key="GridCell.Tab.1.bottom/0.23.1440.824@0.23.1440.824" timestamp="1584812306676" />
+    <state width="1358" height="226" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1586041106288" />
+    <state width="1358" height="226" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1586826515154" />
+    <state width="1358" height="226" key="GridCell.Tab.1.bottom/0.23.1440.835@0.23.1440.835" timestamp="1581995272071" />
+    <state width="1358" height="226" key="GridCell.Tab.1.bottom/0.23.1440.836@0.23.1440.836" timestamp="1582682675713" />
+    <state width="1358" height="226" key="GridCell.Tab.1.bottom/0.23.1440.837@0.23.1440.837" timestamp="1582669455051" />
+    <state width="1358" height="226" key="GridCell.Tab.1.bottom/0.23.1440.838@0.23.1440.838" timestamp="1582732675129" />
+    <state width="1358" height="226" key="GridCell.Tab.1.center" timestamp="1586826515151">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1358" height="226" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1585024675453" />
+    <state width="1358" height="226" key="GridCell.Tab.1.center/0.23.1440.817@0.23.1440.817" timestamp="1585012850510" />
+    <state width="1358" height="226" key="GridCell.Tab.1.center/0.23.1440.823@0.23.1440.823" timestamp="1586808273524" />
+    <state width="1358" height="226" key="GridCell.Tab.1.center/0.23.1440.824@0.23.1440.824" timestamp="1584812306674" />
+    <state width="1358" height="226" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1586041106286" />
+    <state width="1358" height="226" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1586826515151" />
+    <state width="1358" height="226" key="GridCell.Tab.1.center/0.23.1440.835@0.23.1440.835" timestamp="1581995272070" />
+    <state width="1358" height="226" key="GridCell.Tab.1.center/0.23.1440.836@0.23.1440.836" timestamp="1582682675712" />
+    <state width="1358" height="226" key="GridCell.Tab.1.center/0.23.1440.837@0.23.1440.837" timestamp="1582669455051" />
+    <state width="1358" height="226" key="GridCell.Tab.1.center/0.23.1440.838@0.23.1440.838" timestamp="1582732675128" />
+    <state width="1358" height="226" key="GridCell.Tab.1.left" timestamp="1586826515150">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1358" height="226" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1585024675452" />
+    <state width="1358" height="226" key="GridCell.Tab.1.left/0.23.1440.817@0.23.1440.817" timestamp="1585012850509" />
+    <state width="1358" height="226" key="GridCell.Tab.1.left/0.23.1440.823@0.23.1440.823" timestamp="1586808273524" />
+    <state width="1358" height="226" key="GridCell.Tab.1.left/0.23.1440.824@0.23.1440.824" timestamp="1584812306673" />
+    <state width="1358" height="226" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1586041106285" />
+    <state width="1358" height="226" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1586826515150" />
+    <state width="1358" height="226" key="GridCell.Tab.1.left/0.23.1440.835@0.23.1440.835" timestamp="1581995272070" />
+    <state width="1358" height="226" key="GridCell.Tab.1.left/0.23.1440.836@0.23.1440.836" timestamp="1582682675711" />
+    <state width="1358" height="226" key="GridCell.Tab.1.left/0.23.1440.837@0.23.1440.837" timestamp="1582669455050" />
+    <state width="1358" height="226" key="GridCell.Tab.1.left/0.23.1440.838@0.23.1440.838" timestamp="1582732675127" />
+    <state width="1358" height="226" key="GridCell.Tab.1.right" timestamp="1586826515152">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1358" height="226" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1585024675453" />
+    <state width="1358" height="226" key="GridCell.Tab.1.right/0.23.1440.817@0.23.1440.817" timestamp="1585012850510" />
+    <state width="1358" height="226" key="GridCell.Tab.1.right/0.23.1440.823@0.23.1440.823" timestamp="1586808273526" />
+    <state width="1358" height="226" key="GridCell.Tab.1.right/0.23.1440.824@0.23.1440.824" timestamp="1584812306675" />
+    <state width="1358" height="226" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1586041106287" />
+    <state width="1358" height="226" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1586826515152" />
+    <state width="1358" height="226" key="GridCell.Tab.1.right/0.23.1440.835@0.23.1440.835" timestamp="1581995272071" />
+    <state width="1358" height="226" key="GridCell.Tab.1.right/0.23.1440.836@0.23.1440.836" timestamp="1582682675712" />
+    <state width="1358" height="226" key="GridCell.Tab.1.right/0.23.1440.837@0.23.1440.837" timestamp="1582669455051" />
+    <state width="1358" height="226" key="GridCell.Tab.1.right/0.23.1440.838@0.23.1440.838" timestamp="1582732675128" />
+    <state x="249" y="72" key="SettingsEditor" timestamp="1585010204837">
+      <screen x="0" y="23" width="1440" height="817" />
+    </state>
+    <state x="249" y="72" key="SettingsEditor/0.23.1440.817@0.23.1440.817" timestamp="1585010204837" />
+    <state x="482" y="288" key="com.intellij.ide.util.TipDialog" timestamp="1586895046101">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="482" y="284" key="com.intellij.ide.util.TipDialog/0.23.1440.812@0.23.1440.812" timestamp="1585023144167" />
+    <state x="482" y="286" key="com.intellij.ide.util.TipDialog/0.23.1440.817@0.23.1440.817" timestamp="1585009710646" />
+    <state x="482" y="288" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1586895046101" />
+    <state x="482" y="289" key="com.intellij.ide.util.TipDialog/0.23.1440.825@0.23.1440.825" timestamp="1586014656673" />
+    <state x="482" y="293" key="com.intellij.ide.util.TipDialog/0.23.1440.835@0.23.1440.835" timestamp="1581993639877" />
+    <state x="482" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.839@0.23.1440.839" timestamp="1582821032326" />
+    <state x="482" y="295" key="com.intellij.ide.util.TipDialog/0.23.1440.840@0.23.1440.840" timestamp="1582491768797" />
+    <state x="552" y="118" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584810064234">
+      <screen x="0" y="23" width="1440" height="824" />
+    </state>
+    <state x="552" y="118" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.824@0.23.1440.824" timestamp="1584810064234" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/twoPositions.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/keyboardRow.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/findAnagrams.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/battleship.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/battleship.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/permutation.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/slidingWindow.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/anagram.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/anagram.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/maxSubarray.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/coinChange.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Leetocode_Prac$longestSubwithoutRepeat.coverage" NAME="longestSubwithoutRepeat Coverage Results" MODIFIED="1584812835639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetocode_Prac$LengthofLongestSubstring_slidingWindow.coverage" NAME="LengthofLongestSubstring_slidingWindow Coverage Results" MODIFIED="1585009782080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetocode_Prac$reverseLinkedList.coverage" NAME="reverseLinkedList Coverage Results" MODIFIED="1585102628363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetocode_Prac$findAnagrams.coverage" NAME="findAnagrams Coverage Results" MODIFIED="1581395926798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetocode_Prac$permutation.coverage" NAME="permutation Coverage Results" MODIFIED="1584810058906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetocode_Prac$coinChange.coverage" NAME="coinChange Coverage Results" MODIFIED="1586808271211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetocode_Prac$battleship.coverage" NAME="battleship Coverage Results" MODIFIED="1582669267626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetocode_Prac$anagram.coverage" NAME="anagram Coverage Results" MODIFIED="1585024864707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetocode_Prac$maxSubarray.coverage" NAME="maxSubarray Coverage Results" MODIFIED="1586048885947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetocode_Prac$sum_of_path_numbers.coverage" NAME="sum_of_path_numbers Coverage Results" MODIFIED="1586897484321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetocode_Prac$mypow.coverage" NAME="mypow Coverage Results" MODIFIED="1586048899245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetocode_Prac$slidingWindow.coverage" NAME="slidingWindow Coverage Results" MODIFIED="1585011954321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

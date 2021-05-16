@@ -1,0 +1,324 @@
+[
+    {
+        "id": 115496,
+        "catalog_course_id": 1,
+        "name": "Digital Marketing Fundamentals",
+        "start_date": "May 24 2021",
+        "end_date": "May 26 2021"
+    },
+    {
+        "id": 115498,
+        "catalog_course_id": 4,
+        "name": "Certified Digital Marketing Professional (CDMP)",
+        "start_date": "Jun  7 2021",
+        "end_date": "Jun 18 2021"
+    },
+    {
+        "id": 115508,
+        "catalog_course_id": 49,
+        "name": "Mini MBA",
+        "start_date": "Jun  7 2021",
+        "end_date": "Jun 11 2021"
+    },
+    {
+        "id": 115516,
+        "catalog_course_id": 11,
+        "name": "Certified Professional Project Manager (CPPM)",
+        "start_date": "Jun 14 2021",
+        "end_date": "Jun 23 2021"
+    },
+    {
+        "id": 115517,
+        "catalog_course_id": 2,
+        "name": "Agile Project Management",
+        "start_date": "Jun 17 2021",
+        "end_date": "Jun 30 2021"
+    },
+    {
+        "id": 115518,
+        "catalog_course_id": 10,
+        "name": "Fundraising Certificate Series: Laying the Foundation for Fund Development",
+        "start_date": "May 21 2021",
+        "end_date": "May 21 2021"
+    },
+    {
+        "id": 115529,
+        "catalog_course_id": 8,
+        "name": "Fundraising Certificate Series: Measuring Social Impact",
+        "start_date": "May  7 2021",
+        "end_date": "May  7 2021"
+    },
+    {
+        "id": 115530,
+        "catalog_course_id": 20,
+        "name": "Fundraising Certificate Series: Budgeting for your Fundraising Program",
+        "start_date": "May 14 2021",
+        "end_date": "May 14 2021"
+    },
+    {
+        "id": 115531,
+        "catalog_course_id": 51,
+        "name": "Mini MBA for Nonprofit Organizations",
+        "start_date": "Jun  7 2021",
+        "end_date": "Jun 14 2021"
+    },
+    {
+        "id": 115544,
+        "catalog_course_id": 44,
+        "name": "Six Sigma Yellow Belt",
+        "start_date": "Aug 11 2021",
+        "end_date": "Aug 11 2021"
+    },
+    {
+        "id": 115546,
+        "catalog_course_id": 1,
+        "name": "Digital Marketing Fundamentals",
+        "start_date": "Jul 19 2021",
+        "end_date": "Jul 23 2021"
+    },
+    {
+        "id": 115547,
+        "catalog_course_id": 1,
+        "name": "Digital Marketing Fundamentals",
+        "start_date": "Sep 20 2021",
+        "end_date": "Sep 24 2021"
+    },
+    {
+        "id": 115549,
+        "catalog_course_id": 42,
+        "name": "Strategic Social Media Marketing",
+        "start_date": "Aug 25 2021",
+        "end_date": "Aug 27 2021"
+    },
+    {
+        "id": 115550,
+        "catalog_course_id": 49,
+        "name": "Mini MBA",
+        "start_date": "Aug 16 2021",
+        "end_date": "Aug 25 2021"
+    },
+    {
+        "id": 115551,
+        "catalog_course_id": 48,
+        "name": "Online Certified Professional Project Manager (CPPM)",
+        "start_date": "Jul  1 2021",
+        "end_date": "Sep  2 2021"
+    },
+    {
+        "id": 115552,
+        "catalog_course_id": 11,
+        "name": "Certified Professional Project Manager (CPPM)",
+        "start_date": "Jul 19 2021",
+        "end_date": "Aug  4 2021"
+    },
+    {
+        "id": 115553,
+        "catalog_course_id": 80,
+        "name": "Solving Problems with Design Thinking",
+        "start_date": "Aug 26 2021",
+        "end_date": "Aug 27 2021"
+    },
+    {
+        "id": 115554,
+        "catalog_course_id": 41,
+        "name": "Strategies for Effective Negotiation",
+        "start_date": "Sep 16 2021",
+        "end_date": "Sep 23 2021"
+    },
+    {
+        "id": 115555,
+        "catalog_course_id": 48,
+        "name": "Online Certified Professional Project Manager (CPPM)",
+        "start_date": "Aug 10 2021",
+        "end_date": "Oct 19 2021"
+    },
+    {
+        "id": 115556,
+        "catalog_course_id": 11,
+        "name": "Certified Professional Project Manager (CPPM)",
+        "start_date": "Sep 15 2021",
+        "end_date": "Oct  1 2021"
+    },
+    {
+        "id": 115557,
+        "catalog_course_id": 10,
+        "name": "Fundraising Certificate Series: Laying the Foundation for Fund Development",
+        "start_date": "Sep 10 2021",
+        "end_date": "Sep 10 2021"
+    },
+    {
+        "id": 115563,
+        "catalog_course_id": 24,
+        "name": "Fundraising Certificate Series: Annual Strategies",
+        "start_date": "Sep 17 2021",
+        "end_date": "Sep 17 2021"
+    },
+    {
+        "id": 115564,
+        "catalog_course_id": 22,
+        "name": "Fundraising Certificate Series: Asking for Major Gifts",
+        "start_date": "Sep 24 2021",
+        "end_date": "Sep 24 2021"
+    },
+    {
+        "id": 115566,
+        "catalog_course_id": 7,
+        "name": "Fundraising Certificate Series: Transformational Nonprofit Leadership\u00a0",
+        "start_date": "Oct  1 2021",
+        "end_date": "Oct  1 2021"
+    },
+    {
+        "id": 115567,
+        "catalog_course_id": 14,
+        "name": "Fundraising Certificate Series: Donor Motivation",
+        "start_date": "Oct  8 2021",
+        "end_date": "Oct  8 2021"
+    },
+    {
+        "id": 115568,
+        "catalog_course_id": 17,
+        "name": "Fundraising Certificate Series: Nonprofit Messaging that Drives Giving",
+        "start_date": "Oct 15 2021",
+        "end_date": "Oct 15 2021"
+    },
+    {
+        "id": 115569,
+        "catalog_course_id": 12,
+        "name": "Fundraising Certificate Series: Researching, Cultivating and Appreciating Foundations & Corporate Sponsors",
+        "start_date": "Oct 22 2021",
+        "end_date": "Oct 22 2021"
+    },
+    {
+        "id": 115570,
+        "catalog_course_id": 19,
+        "name": "Fundraising Certificate Series: Planned Giving and Capital Campaigns",
+        "start_date": "Nov 19 2021",
+        "end_date": "Nov 19 2021"
+    },
+    {
+        "id": 115571,
+        "catalog_course_id": 16,
+        "name": "Fundraising Certificate Series: Nonprofit Prospect Management and Research Techniques",
+        "start_date": "Nov  5 2021",
+        "end_date": "Nov  5 2021"
+    },
+    {
+        "id": 115572,
+        "catalog_course_id": 9,
+        "name": "Fundraising Certificate Series: How to Write a Development Plan and Manage A Development Office",
+        "start_date": "Nov 12 2021",
+        "end_date": "Nov 12 2021"
+    },
+    {
+        "id": 115573,
+        "catalog_course_id": 15,
+        "name": "Fundraising Certificate Series: Grant Writing Essentials",
+        "start_date": "Oct 29 2021",
+        "end_date": "Oct 29 2021"
+    },
+    {
+        "id": 115574,
+        "catalog_course_id": 8,
+        "name": "Fundraising Certificate Series: Measuring Social Impact",
+        "start_date": "Dec  3 2021",
+        "end_date": "Dec  3 2021"
+    },
+    {
+        "id": 115575,
+        "catalog_course_id": 20,
+        "name": "Fundraising Certificate Series: Budgeting for your Fundraising Program",
+        "start_date": "Dec 10 2021",
+        "end_date": "Dec 10 2021"
+    },
+    {
+        "id": 5000003,
+        "catalog_course_id": 3,
+        "name": "Business Analytics and Data Visualization",
+        "start_date": "",
+        "end_date": ""
+    },
+    {
+        "id": 5000006,
+        "catalog_course_id": 6,
+        "name": "Data-Driven Marketing",
+        "start_date": "",
+        "end_date": ""
+    },
+    {
+        "id": 5000013,
+        "catalog_course_id": 13,
+        "name": "Finance for Non-Financial Managers",
+        "start_date": "",
+        "end_date": ""
+    },
+    {
+        "id": 5000021,
+        "catalog_course_id": 21,
+        "name": "Influential Communication",
+        "start_date": "",
+        "end_date": ""
+    },
+    {
+        "id": 5000028,
+        "catalog_course_id": 28,
+        "name": "Lean Six Sigma Black Belt",
+        "start_date": "",
+        "end_date": ""
+    },
+    {
+        "id": 5000037,
+        "catalog_course_id": 37,
+        "name": "The St. Thomas Executive Program (STEP)",
+        "start_date": "",
+        "end_date": ""
+    },
+    {
+        "id": 5000038,
+        "catalog_course_id": 38,
+        "name": "The Leadership and Management Program",
+        "start_date": "",
+        "end_date": ""
+    },
+    {
+        "id": 5000039,
+        "catalog_course_id": 39,
+        "name": "Future of Health Care Conference",
+        "start_date": "",
+        "end_date": ""
+    },
+    {
+        "id": 5000045,
+        "catalog_course_id": 45,
+        "name": "Six Sigma Green Belt Certificate",
+        "start_date": "",
+        "end_date": ""
+    },
+    {
+        "id": 5000054,
+        "catalog_course_id": 54,
+        "name": "Mini Master of Marketing Management",
+        "start_date": "",
+        "end_date": ""
+    },
+    {
+        "id": 5000078,
+        "catalog_course_id": 78,
+        "name": "Decision Making and Execution",
+        "start_date": "",
+        "end_date": ""
+    },
+    {
+        "id": 5000079,
+        "catalog_course_id": 79,
+        "name": "Project Management for the Accidental Project Manager",
+        "start_date": "",
+        "end_date": ""
+    },
+    {
+        "id": 5000082,
+        "catalog_course_id": 82,
+        "name": "Health Care Management Principles",
+        "start_date": "",
+        "end_date": ""
+    }
+]

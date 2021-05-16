@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d03aa19-fa73-4b10-b39e-4593545ea60c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QvWML9PI0qbwS9NDVWIiYOxwnT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.HW8_W2">
+    <configuration name="HW3_13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3_13.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HW3_14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW3_14.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HW8_W1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW8_W1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HW8_W2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HW8_W2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="unpacking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unpacking.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.HW8_W2" />
+        <item itemvalue="Python.HW8_W1" />
+        <item itemvalue="Python.unpacking" />
+        <item itemvalue="Python.HW3_14" />
+        <item itemvalue="Python.HW3_13" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d03aa19-fa73-4b10-b39e-4593545ea60c" name="Default Changelist" comment="" />
+      <created>1568651500626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568651500626</updated>
+      <workItem from="1581179220482" duration="3633000" />
+      <workItem from="1585414673501" duration="7102000" />
+      <workItem from="1586041109815" duration="560000" />
+      <workItem from="1589337274222" duration="965000" />
+      <workItem from="1590548255213" duration="47000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom" timestamp="1585531242839">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="203" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1585454884872" />
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1585520022610" />
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1585531242839" />
+    <state width="1398" height="203" key="GridCell.Tab.0.center" timestamp="1585531242837">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="203" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1585454884871" />
+    <state width="1398" height="203" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1585520022606" />
+    <state width="1398" height="203" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1585531242837" />
+    <state width="1398" height="203" key="GridCell.Tab.0.left" timestamp="1585531242835">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="203" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1585454884870" />
+    <state width="1398" height="203" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1585520022605" />
+    <state width="1398" height="203" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1585531242835" />
+    <state width="1398" height="203" key="GridCell.Tab.0.right" timestamp="1585531242838">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="203" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1585454884872" />
+    <state width="1398" height="203" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1585520022609" />
+    <state width="1398" height="203" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1585531242838" />
+    <state width="1358" height="253" key="GridCell.Tab.1.bottom" timestamp="1585531237369">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="253" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1585451914938" />
+    <state width="1358" height="253" key="GridCell.Tab.1.bottom/0.23.1440.829@0.23.1440.829" timestamp="1585531237369" />
+    <state width="1358" height="253" key="GridCell.Tab.1.center" timestamp="1585531237368">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="253" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1585451914937" />
+    <state width="1358" height="253" key="GridCell.Tab.1.center/0.23.1440.829@0.23.1440.829" timestamp="1585531237368" />
+    <state width="1358" height="253" key="GridCell.Tab.1.left" timestamp="1585531237367">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="253" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1585451914936" />
+    <state width="1358" height="253" key="GridCell.Tab.1.left/0.23.1440.829@0.23.1440.829" timestamp="1585531237367" />
+    <state width="1358" height="253" key="GridCell.Tab.1.right" timestamp="1585531237368">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1358" height="253" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1585451914938" />
+    <state width="1358" height="253" key="GridCell.Tab.1.right/0.23.1440.829@0.23.1440.829" timestamp="1585531237368" />
+    <state x="483" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1590548257118">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="483" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1589337277271" />
+    <state x="483" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1590548257118" />
+    <state x="357" y="115" width="670" height="676" key="search.everywhere.popup" timestamp="1585516455084">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="357" y="115" width="670" height="676" key="search.everywhere.popup/0.23.1440.828@0.23.1440.828" timestamp="1585516455084" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/unpacking.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/homework$unpacking.coverage" NAME="unpacking Coverage Results" MODIFIED="1585454884849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/homework$HW3_12.coverage" NAME="HW3_12 Coverage Results" MODIFIED="1581181588573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/homework$HW3.coverage" NAME="HW3 Coverage Results" MODIFIED="1581181069391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/homework$HW3_13.coverage" NAME="HW3_13 Coverage Results" MODIFIED="1581182794282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/homework$HW8_W1.coverage" NAME="HW8_W1 Coverage Results" MODIFIED="1585516945047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/homework$HW8_W2.coverage" NAME="HW8_W2 Coverage Results" MODIFIED="1585520465977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/homework$HW3_14.coverage" NAME="HW3_14 Coverage Results" MODIFIED="1581182811812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

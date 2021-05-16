@@ -1,0 +1,37 @@
+[
+    {
+        "category": "General Business",
+        "url": "https://business.stthomas.edu/executive-education/general-business/index.html",
+        "parent_url": "https://business.stthomas.edu/executive-education/individuals/index.html"
+    },
+    {
+        "category": "Marketing Specialization",
+        "url": "https://business.stthomas.edu/executive-education/marketing-specialization/index.html",
+        "parent_url": "https://business.stthomas.edu/executive-education/individuals/index.html"
+    },
+    {
+        "category": "Health Care",
+        "url": "https://business.stthomas.edu/executive-education/individuals/program-finder/health-care/index.html",
+        "parent_url": "https://business.stthomas.edu/executive-education/individuals/index.html"
+    },
+    {
+        "category": "Leadership & Management",
+        "url": "https://business.stthomas.edu/executive-education/leadership-management/index.html",
+        "parent_url": "https://business.stthomas.edu/executive-education/individuals/index.html"
+    },
+    {
+        "category": "Nonprofit Management",
+        "url": "https://business.stthomas.edu/executive-education/individuals/program-finder/nonprofit-management/index.html",
+        "parent_url": "https://business.stthomas.edu/executive-education/individuals/index.html"
+    },
+    {
+        "category": "Operations Management",
+        "url": "https://business.stthomas.edu/executive-education/operations-management/index.html",
+        "parent_url": "https://business.stthomas.edu/executive-education/individuals/index.html"
+    },
+    {
+        "category": "Project Management",
+        "url": "https://business.stthomas.edu/executive-education/individuals/program-finder/project-management/index.html",
+        "parent_url": "https://business.stthomas.edu/executive-education/individuals/index.html"
+    }
+]

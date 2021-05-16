@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2613af4b-a944-4272-8ab3-68a91a764f4f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UhqOaFNJYT5f3Ywz4RSmKU0wso" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/RecursivePactices" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.selectSort">
+    <configuration name="Search_Insert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="datastructure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RecursivePactices" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RecursivePactices/Search_Insert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="binary_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="datastructure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RecursivePactices" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RecursivePactices/binary_search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bubbleSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="datastructure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bubbleSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pythonZip" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="datastructure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RecursivePactices" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RecursivePactices/pythonZip.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="selectSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="datastructure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selectSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.selectSort" />
+        <item itemvalue="Python.bubbleSort" />
+        <item itemvalue="Python.pythonZip" />
+        <item itemvalue="Python.Search_Insert" />
+        <item itemvalue="Python.binary_search" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2613af4b-a944-4272-8ab3-68a91a764f4f" name="Default Changelist" comment="" />
+      <created>1575819143235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575819143235</updated>
+      <workItem from="1583251304856" duration="1953000" />
+      <workItem from="1583635172799" duration="66000" />
+      <workItem from="1583684086406" duration="381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="228" key="GridCell.Tab.0.bottom" timestamp="1583383819790">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1358" height="228" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1583383819790" />
+    <state width="1358" height="228" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1583253048121" />
+    <state width="1358" height="228" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1583251772380" />
+    <state width="1358" height="228" key="GridCell.Tab.0.center" timestamp="1583383819789">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1358" height="228" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1583383819789" />
+    <state width="1358" height="228" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1583253048119" />
+    <state width="1358" height="228" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1583251772379" />
+    <state width="1358" height="228" key="GridCell.Tab.0.left" timestamp="1583383819788">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1358" height="228" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1583383819788" />
+    <state width="1358" height="228" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1583253048118" />
+    <state width="1358" height="228" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1583251772378" />
+    <state width="1358" height="228" key="GridCell.Tab.0.right" timestamp="1583383819790">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1358" height="228" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1583383819790" />
+    <state width="1358" height="228" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1583253048120" />
+    <state width="1358" height="228" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1583251772379" />
+    <state width="1358" height="228" key="GridCell.Tab.1.bottom" timestamp="1583383819804">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1358" height="228" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1583383819804" />
+    <state width="1358" height="228" key="GridCell.Tab.1.bottom/0.23.1440.831@0.23.1440.831" timestamp="1583253048123" />
+    <state width="1358" height="228" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1583251773919" />
+    <state width="1358" height="228" key="GridCell.Tab.1.center" timestamp="1583383819802">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1358" height="228" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1583383819802" />
+    <state width="1358" height="228" key="GridCell.Tab.1.center/0.23.1440.831@0.23.1440.831" timestamp="1583253048122" />
+    <state width="1358" height="228" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1583251773918" />
+    <state width="1358" height="228" key="GridCell.Tab.1.left" timestamp="1583383819801">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1358" height="228" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1583383819801" />
+    <state width="1358" height="228" key="GridCell.Tab.1.left/0.23.1440.831@0.23.1440.831" timestamp="1583253048121" />
+    <state width="1358" height="228" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1583251773917" />
+    <state width="1358" height="228" key="GridCell.Tab.1.right" timestamp="1583383819803">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1358" height="228" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1583383819803" />
+    <state width="1358" height="228" key="GridCell.Tab.1.right/0.23.1440.831@0.23.1440.831" timestamp="1583253048122" />
+    <state width="1358" height="228" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1583251773919" />
+    <state x="418" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1583635174405">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state x="418" y="260" key="com.intellij.ide.util.TipDialog/0.23.1440.831@0.23.1440.831" timestamp="1583251307647" />
+    <state x="418" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.835@0.23.1440.835" timestamp="1583635174405" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/compressChar.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RecursivePactices/permute.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RecursivePactices/palindromeNum.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RecursivePactices/maxSubarray.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RecursivePactices/longestPalindrome.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RecursivePactices/moveDuplicates.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RecursivePactices/binary_search.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RecursivePactices/Search_Insert.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/RecursivePactices/pythonZip.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bubbleSort.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/selectSort.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/datastructure$selectSort.coverage" NAME="selectSort Coverage Results" MODIFIED="1583253048027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/datastructure$bubbleSort.coverage" NAME="bubbleSort Coverage Results" MODIFIED="1583251772115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
